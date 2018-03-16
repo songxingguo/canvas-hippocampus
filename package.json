@@ -1,0 +1,14 @@
+{
+  "name": "package.json",
+  "version": "1.0.0",
+  "description": "canvas-hippocampus",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "songxingguo",
+  "license": "MIT",
+  "dependencies": {
+    "jquery": "^3.3.1"
+  }
+}
